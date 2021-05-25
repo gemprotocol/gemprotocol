@@ -22,7 +22,11 @@ The $GEM token will be our next release. Along with it we will launch new premiu
 **✅ If you want to participate in a project with real utility, dApps already launched and that will follow in the footsteps of other utility tokens like Poocoin and Bogged, join us!**
 
 Join us to not miss this opportunity!
+
 💬 Telegram: [TELEGRAM] u/gemprotocol 
+
 🌐 Website: [WEBSITE] https://gemprotocol.io 
+
 💻 Portfolio Tracker dApp: https://gemprotocol.io/portfolio-tracker 
+
 💻 Rug checker dApp: https://gemprotocol.io/rug-checker 
