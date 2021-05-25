@@ -23,7 +23,7 @@ The $GEM token will be our next release. Along with it we will launch new premiu
 
 Join us to not miss this opportunity!
 
-💬 Telegram: [TELEGRAM] u/gemprotocol 
+💬 Telegram: [TELEGRAM] https://t.me/gemprotocol
 
 🌐 Website: [WEBSITE] https://gemprotocol.io 
 
